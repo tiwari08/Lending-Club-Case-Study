@@ -1,5 +1,5 @@
 # Project name
-Lending-club-case-study
+Lending Club Case Study
 
 ## Table of Contents
 Introduction
